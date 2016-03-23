@@ -1,0 +1,2 @@
+include "node_modules/noscript/yate/noscript.yate"
+include "node_modules/noscript-react/yate/ns.view-react.yate"

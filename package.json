@@ -1,0 +1,30 @@
+{
+  "name": "todo-ns-react",
+  "version": "1.0.0",
+  "description": "Todo List built on top of Nosript with React",
+  "main": "index.js",
+  "scripts": {
+    "yate": "node_modules/.bin/yate index.yate -o index.yate.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yandex-ui/noscript-react-todomvc.git"
+  },
+  "dependencies": {
+    "noscript": "^0.8.4",
+    "noscript-react": "^1.0.0",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "todomvc-app-css": "^2.0.4",
+    "yate": "0.0.79"
+  },
+  "author": "vitkarpov <viktor.s.karpov@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.5.1",
+    "babel-preset-react": "^6.5.0",
+    "connect": "^3.4.1",
+    "serve-static": "^1.10.2"
+  }
+}
