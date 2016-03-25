@@ -1,6 +1,6 @@
 ns.log.exception = console.log;
 
-ns.router.baseDir = '/';
+ns.router.baseDir = '/noscript-react-todomvc/';
 ns.router.routes = {
     route: {
         '{filter:id=all}': 'app'
