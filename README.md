@@ -1,6 +1,7 @@
 # TodoMVC noscript-react
 
-[**noscipt-react**](https://github.com/yandex-ui/noscript-react)
+- [**Демо**](http://yandex-ui.github.io/noscript-react-todomvc/)
+- [**Подробнее про noscipt-react**](https://github.com/yandex-ui/noscript-react)
 
 ![](./preview.png)
 
